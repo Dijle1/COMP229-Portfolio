@@ -10,7 +10,7 @@ export default function Home() {
 
       {/* Short introduction */}
       <p>
-        Hi! I'm Dijle Arıkan, a 3rd-semester Software Engineering student 
+        Hi! I'm Dijle Arikan, a 3rd-semester Software Engineering student 
         at Centennial College specializing in Artificial Intelligence.
       </p>
 
