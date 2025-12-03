@@ -14,6 +14,9 @@ export default function Home() {
         at Centennial College specializing in Artificial Intelligence.
       </p>
 
+      <p>CI/CD test paragraph - update branch</p>
+
+
       {/* Navigation buttons */}
       <div style={{ marginTop: "2rem" }}>
         <Link 
